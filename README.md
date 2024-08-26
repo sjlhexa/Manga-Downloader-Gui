@@ -1,30 +1,50 @@
-# Manga-Downloader-Gui
-This is a manga downloader created in Python which has a GUI based interface.
+
+# Project Title
+This is Manga Downloader Gui
 
 
-<br>
-<h1>
-  Manga Downloader GUI
-</h1>
+## Authors
 
-<h2>
-  Package Which Needs To Be Installed Before
-</h2>
+- [@sjlhexa](https://www.github.com/sjlhexa)
 
-<h3><ul>
-  <li>requests</li>
-  ```bash
-    pip install requests
-  ```
-<hr>
-  <li>beautifulsoup4</li>
-  ```bash
-    pip install beautifulsoup4
-  ```
-  <hr>
-  <li>Pillow</li>
-  ```bash
-    pip install Pillow
+
+## Prerequisits
+
+Make sure they are installed before Running the code 
+
+Install requests
+```bash
+  pip install requests
 ```
-  <hr>
-</ul></h3>
+
+Install beautifulsoup4
+```bash
+  pip install beautifulsoup4
+```
+
+
+Install Pillow
+```bash
+  pip install Pillow
+```
+
+
+## RUN
+
+```bash
+  python3 main.py
+```
+## Input Needed
+
+* Name of the Manga
+* Starting Chapter Number
+* Ending Chapter Number
+* Location where You want to save
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/cb6123f4-4be8-4551-9462-54cea7bce3f8)
+
